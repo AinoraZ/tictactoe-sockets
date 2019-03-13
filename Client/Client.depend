@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1551734369 source:c:\users\domin\desktop\klientas\main.c
+	<winsock2.h>
+	<errno.h>
+	<ws2tcpip.h>
+	<fcntl.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+
+1552140664 source:c:\users\domin\onedrive\dokumentai\studijos\4 pusmetis\kompiuteriø tinklai\1 uzduotis\klientas\main.c
+	<winsock2.h>
+	<errno.h>
+	<ws2tcpip.h>
+	<arpa/inet.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<sys/select.h>
+	<fcntl.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<stdbool.h>
+
+1552140664 source:g:\klientas\main.c
+	<winsock2.h>
+	<errno.h>
+	<ws2tcpip.h>
+	<arpa/inet.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<sys/select.h>
+	<fcntl.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<stdbool.h>
+
+1552359340 source:g:\university\tinklai\uzd1\klientas\main.cpp
+	<winsock2.h>
+	<errno.h>
+	<ws2tcpip.h>
+	<arpa/inet.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<sys/select.h>
+	<fcntl.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<stdbool.h>
+	<string>
+	<iostream>
+	<vector>
+
+1552359340 source:g:\university\tinklai\uzd1\client\main.cpp
+	<winsock2.h>
+	<errno.h>
+	<ws2tcpip.h>
+	<arpa/inet.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<sys/select.h>
+	<fcntl.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<stdbool.h>
+	<string>
+	<iostream>
+	<vector>
+

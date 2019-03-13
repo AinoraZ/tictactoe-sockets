@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1552362047 source:g:\university\tinklai\uzd1\server\main.cpp
+	<winsock2.h>
+	<errno.h>
+	<ws2tcpip.h>
+	<arpa/inet.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<sys/select.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<stdbool.h>
+	<vector>
+	<string>
+	<iostream>
+	<string>
+	<algorithm>
+	<iterator>
+	<memory>
+	<map>
+
+1552359717 source:g:\university\tinklai\uzd1\server\main2.cpp
+	<winsock2.h>
+	<errno.h>
+	<ws2tcpip.h>
+	<arpa/inet.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<sys/select.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<stdbool.h>
+	<vector>
+	<string>
+	<iostream>
+	<string>
+	<algorithm>
+	<iterator>
+	<memory>
+	<map>
+
