@@ -285,7 +285,11 @@ bool menu_create(Player &player, vector<shared_ptr<Game>> &games, string name) {
 
 //Puts player in existing room
 bool menu_join(Player &player, vector<shared_ptr<Game>> &games, string name) {
-    if((player.game = find_game(games, name))== nullptr){
+    if((player.game = find_game(games, name)) == nullptr){
+        return false;
+    }
+
+    if(player.game->player2 != nullptr){
         return false;
     }
 
